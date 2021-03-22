@@ -16,8 +16,10 @@ subtitle:
 ---
 
 
-Saloua Bennani is a research assistant at University Toulouse Jean Jaures. Her research interests include model driven engineering and collaborative engineering. She also serves as a teaching assistant for Relational Databases, Algorithmic, Advanced Data structures, Object-Oriented Design & Programming, Processes Modeling with UML, 
+My research is interested in the following fields:
 
-- hh
-- fff
-- ggg
+  - Model-Driven (software and systems) Engineering
+  - Collaborative Processes
+  - Human Group Decision Making
+  - Domain Specific (Modeling) Languages, and Metamodeling
+  - Software Development Process & Business Process Management

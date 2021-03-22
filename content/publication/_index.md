@@ -14,4 +14,4 @@ header:
   caption: ""
   image: ""
 ---
-My publi
+My publications

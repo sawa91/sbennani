@@ -24,31 +24,57 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   - title: Research & Teaching assistant
-    company: GenCoin
-    company_url: ''
-    location: California
-    date_start: '2017-01-01'
+    company: University of Toulouse Jean Jaures
+    company_url: 'https://www.univ-tlse2.fr'
+    location: Toulouse, France
+    date_start: '2019-09-01'
     date_end: ''
     description: |2-
-        Responsibilities include:
-        
-        * Analysing
-        * Modelling
-        * Deploying
-        
+        Taught:
+
+        * Object-Oriented Analysis and Design
+        * Databases
+        * Algorithmic
+        * Advanced Data Structures
+        * Process Modelling
+        * Python
+
   - title: PhD Student
-    company: University X
-    company_url: ''
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2016-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
-    
+    company: Institut de Recherche en Informatique de Toulouse
+    company_url: 'https://www.irit.fr'
+    location: Toulouse, France
+    date_start: '2016-05-01'
+    date_end: '2020-07-31'
+    description: |2-
+      During this PhD, I realized the following tasks:
+      * A Model Based approach for heterogeneous models alignment.
+      * Collaborative Decision Making Language for group decision making in collaborative
+      sessions.
+      * Collaborative Decision Making Patterns : Set of configurable patterns to instantiate collaborative
+      sessions.
+      * Inter-model Semantic links definition.
+      * Support tool for collaborative model alignment : Prototype allowing the use of the collaboration
+      patterns and the instanciation of the proposed process.
+      * Research papers in international conferences and peer-reviewed journals concerning model based
+      and collaborative engineering.
+
+
+
   - title: Software Engineer
-    company: University X
-    company_url: ''
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2016-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    company:   Capgemini Technology Services
+    company_url: 'https://www.capgemini.com'
+    location:   Casablanca, Morocco
+    date_start: '2014-07-25'
+    date_end: '2016-04-08'
+    description: |2-
+      My tasks mainly concern:
+      * Incidology management on SFR Entreprises CRM.
+      * Technical and functional support (diagnostic and resolution of anomalies).
+      * Development of business solutions with the client.
+      * Management of project documentation and operating procedures writing in coordination with the client.
+      * Writing of deliverables (specs, manual guides for the deployment and support of the environment).
+      * Support to end users & customer relationship management.
+      * Implementation and Integration of solutions.
+      * Testing and Delivery of impacted modules.
+      * Processing of mass requests
 ---
