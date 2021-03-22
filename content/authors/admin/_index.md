@@ -64,7 +64,7 @@ email: "saloua.bennani91@gmail.com"
 highlight_name: false
 ---
 
-Saloua Bennani is a research assistant at University Toulouse Jean Jaures. Her research interests include model driven engineering and collaborative engineering. She also serves as a teaching assistant for Relational Databases, Algorithmic, Advanced Data structures, Object-Oriented Design & Programming, Processes Modeling with UML, etc.
+I am a research assistant at University Toulouse Jean Jaures. My research interests include model driven engineering and collaborative engineering. I also serve as a teaching assistant for Relational Databases, Algorithmic, Advanced Data structures, Object-Oriented Design & Programming, Processes Modeling with UML, etc.
 
 
 

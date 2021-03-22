@@ -16,7 +16,7 @@ subtitle:
 ---
 
 
-My research is interested in the following fields:
+My research is oriented towards the following fields:
 
   - Model-Driven (software and systems) Engineering
   - Collaborative Processes

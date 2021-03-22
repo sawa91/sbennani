@@ -68,7 +68,7 @@ experience:
     date_end: '2016-04-08'
     description: |2-
       My tasks mainly concern:
-      * Incidology management on SFR Entreprises CRM.
+      * Incident management on SFR Entreprises CRM.
       * Technical and functional support (diagnostic and resolution of anomalies).
       * Development of business solutions with the client.
       * Management of project documentation and operating procedures writing in coordination with the client.
