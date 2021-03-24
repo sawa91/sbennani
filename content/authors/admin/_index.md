@@ -6,7 +6,7 @@ title: Saloua Bennani
 superuser: true
 
 # Role/position/tagline
-role: PhD in Computer Science | Software Engineer
+role: PhD in Computer Science  Software Engineer
 
 # Organizations/Affiliations to show in About widget
 organizations:
