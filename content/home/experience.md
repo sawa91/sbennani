@@ -72,7 +72,8 @@ experience:
       * Technical and functional support (diagnostic and resolution of anomalies).
       * Development of business solutions with the client.
       * Management of project documentation and operating procedures writing in coordination with the client.
-      * Writing of deliverables (specs, manual guides for the deployment and support of the environment).
+      * Writing project documentation (specs, user manuals, installation and deployment guides)
+
       * Support to end users & customer relationship management.
       * Implementation and Integration of solutions.
       * Testing and Delivery of impacted modules.
